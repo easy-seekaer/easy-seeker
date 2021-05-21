@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{58:function(e,n,t){"use strict";t.r(n);var a=t(0),c=t.n(a);n.default=function(){return c.a.createElement("div",{style:{textAlign:"center"}},c.a.createElement("p",null,"家電製品の全てを網羅するサイト。"))}}}]);
