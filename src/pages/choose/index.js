@@ -106,6 +106,7 @@ export default () => (
           <li><Link to="/choose/disc-media">ディスクメディア</Link></li>
             <li>カセットテープ・VHF</li>
         <h4>ケーブル・端子</h4>
+            <li><Link to="/choose/lan-cable">LANケーブル</Link></li>
             <li>HDMIケーブル</li>
             <li>USBケーブル</li>
             <li>Lightingケーブル</li>

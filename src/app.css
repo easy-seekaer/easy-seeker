@@ -42,3 +42,23 @@ h1 {
     padding: 20px auto;
     display: block;
 }
+
+h3{
+  width: 100%;
+  background: #108db8;
+  color: #fff;
+  padding: 5px 10px;
+}
+
+h4{
+  color: #108db8;
+  margin-left: 10px;
+}
+
+table{
+  margin: 10px;
+}
+
+p{
+  margin: 10px;
+}
