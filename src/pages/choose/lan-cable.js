@@ -33,15 +33,15 @@ export default () => (
 </tr>
 
 <tr>
-  <td>CAT 1</td> <td></td> <td></td> <td></td>
+  <td>CAT 1</td> <td>20Kb/s</td> <td></td> <td></td>
   <td></td>
-<td></td> <td></td>
+<td></td> <td>音声通話に用いられる。</td>
 </tr>
 
 <tr>
   <td>CAT 2</td> <td>4Mb/s</td> <td>1MHz</td> <td></td>
   <td></td>
-<td></td> <td></td>
+<td></td> <td>ISDNに用いられる。</td>
 </tr>
 
 <tr>
