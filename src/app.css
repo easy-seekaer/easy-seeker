@@ -62,3 +62,15 @@ table{
 p{
   margin: 10px;
 }
+
+table{
+  border-collapse: collapse;
+  font-size: 2vw;
+}
+th, td{
+  border: solid 1px #000;
+  text-align: center;
+}
+th{
+  background: #999;
+}
