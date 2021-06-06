@@ -72,5 +72,9 @@ th, td{
   text-align: center;
 }
 th{
-  background: #999;
+  background: #666;
+  color: #fff;
+}
+.color-cell{
+  background: #bbb;
 }
