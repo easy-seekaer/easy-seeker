@@ -149,19 +149,19 @@ export default () => (
 			<th>Ver</th>
 		</tr>
 		<tr>
-			<td>標準</td>
+			<td>DS（Default Speed）</td>
 			<td>SD, HC, XC, UC</td>
 			<td>12.5</td>
 			<td>1.01</td>
 		</tr>
 		<tr>
-			<td>HS</td>
+			<td>HS（High Speed）</td>
 			<td>SD, HC, XC, UC</td>
 			<td>25</td>
 			<td>1.10</td>
 		</tr>
 		<tr>
-			<td>UHS-Ⅰ</td>
+			<td>UHS-Ⅰ（Ultra High Speed）</td>
 			<td>HC, XC, UC</td>
 			<td>50, 104</td>
 			<td>3.01</td>

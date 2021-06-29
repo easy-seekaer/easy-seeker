@@ -79,7 +79,7 @@ export default () => (
           <li><Link to="/choose/printer">プリンター</Link></li>
             <li>複合機</li>
             <li>印刷用紙</li>
-            <li>インク</li>
+            <li><Link to="/choose/ink">インク</Link></li>
         <h4>パソコン</h4>
             <li>ノートパソコン</li>
             <li>デスクトップパソコン</li>
@@ -93,7 +93,8 @@ export default () => (
             <li>映像編集・画像編集・音声編集</li>
             <li>会計</li>
         <h4>ネットワーク</h4>
-            <li><Link to="/choose/wifi-router">Wi-Fiルーター</Link></li>
+            <li><Link to="/choose/network">家庭用インターネット回線の基礎知識</Link></li>
+                <li><Link to="/choose/wifi-router">Wi-Fiルーター</Link></li>
             <li>中継機</li>
             <li>LANハブ</li>
             <li>LANケーブル</li>
