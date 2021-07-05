@@ -19,9 +19,41 @@ export default () => (
 </ul>
 
 <h3>形状</h3>
-<h4>FL, FLR：直管形</h4>
-<h4>FCL：円環形</h4>
-<h4></h4>
+<table>
+	<tbody>
+		<tr>
+			<td>型番</td>
+			<td>種類</td>
+			<td>意味</td>
+			<td>形状</td>
+		</tr>
+		<tr>
+			<td>FL</td>
+			<td>スタータ型直管形蛍光ランプ</td>
+			<td>Fluorescent Lamp</td>
+			<td>直線</td>
+		</tr>
+		<tr>
+			<td>FCL</td>
+			<td>スタータ型環形蛍光ランプ</td>
+			<td>Fluorescent Circline Lamp</td>
+			<td>輪っか</td>
+		</tr>
+		<tr>
+			<td>FHC</td>
+			<td>高周波点灯専用（Ｈｆ）形環形蛍光ランプ</td>
+			<td>Fluorescent High-frequency Circline Lamp</td>
+			<td>細い輪っか</td>
+		</tr>
+		<tr>
+			<td>FHD</td>
+			<td>高周波点灯専用（Ｈｆ）形二重環形蛍光ランプ</td>
+			<td>Fluorescent High-frequency Double Circline Lamp</td>
+			<td>細い二重の輪っか</td>
+		</tr>
+	</tbody>
+</table>
+<p>高周波点灯専用（Ｈｆ）形は、従来の環形蛍光ランプ（ＦＣＬ）に比べて管径が細く、インバータ点灯により、ランプ効率が向上しより明るい、ランプ寿命の延長、より薄型の照明器具が作れる等の効果がある。</p>
 
 
 <h3>点灯方式</h3>
