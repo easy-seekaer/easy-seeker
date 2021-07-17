@@ -45,7 +45,7 @@ export default () => (
             <li>ドライヤー　　　■■■</li>
             <li><Link to="/choose/shaver">シェーバー</Link></li>
             <li>バリカン</li>
-            <li>電動歯ブラシ　　　■■■</li>
+            <li><Link to="/choose/tooth-brush">電動歯ブラシ</Link></li>
             <li>体温計</li>
             <li>血圧計</li>
             <li>体重計</li>

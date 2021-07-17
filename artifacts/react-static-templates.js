@@ -17,6 +17,7 @@ export default {
 '__react_static_root__/src/pages/choose/printer.js': require('__react_static_root__/src/pages/choose/printer.js').default,
 '__react_static_root__/src/pages/choose/sd-card.js': require('__react_static_root__/src/pages/choose/sd-card.js').default,
 '__react_static_root__/src/pages/choose/shaver.js': require('__react_static_root__/src/pages/choose/shaver.js').default,
+'__react_static_root__/src/pages/choose/tooth-brush.js': require('__react_static_root__/src/pages/choose/tooth-brush.js').default,
 '__react_static_root__/src/pages/choose/usb-memory.js': require('__react_static_root__/src/pages/choose/usb-memory.js').default,
 '__react_static_root__/src/pages/choose/wifi-router.js': require('__react_static_root__/src/pages/choose/wifi-router.js').default,
 '__react_static_root__/src/pages/disposal/index.js': require('__react_static_root__/src/pages/disposal/index.js').default,
