@@ -23,6 +23,7 @@ export default {
 '__react_static_root__/src/pages/disposal/index.js': require('__react_static_root__/src/pages/disposal/index.js').default,
 '__react_static_root__/src/pages/index.js': require('__react_static_root__/src/pages/index.js').default,
 '__react_static_root__/src/pages/maintenance/index.js': require('__react_static_root__/src/pages/maintenance/index.js').default,
+'__react_static_root__/src/pages/maintenance/tv.js': require('__react_static_root__/src/pages/maintenance/tv.js').default,
 '__react_static_root__/src/containers/Post': require('__react_static_root__/src/containers/Post').default
 }
 
